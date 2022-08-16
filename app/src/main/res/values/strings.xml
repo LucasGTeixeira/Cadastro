@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="nome_completo">nome completo</string>
+    <string name="telefone">telefone</string>
+    <string name="e_mail">E-mail</string>
+    <string name="ingressar_na_lista_de_e_mails">ingressar na lista de e-mails</string>
+    <string name="masculino">masculino</string>
+    <string name="feminino">feminino</string>
+    <string name="cidade">Cidade</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+    <string-array name="valores_estados">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+        <item>DF</item>
+    </string-array>
+</resources>
