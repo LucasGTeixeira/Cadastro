@@ -119,11 +119,10 @@ public class MainActivity extends AppCompatActivity {
             amb.telefoneEt.setText("");
             amb.emailEt.setText("");
             amb.cidadeEt.setText("");
-            if(amb.masculinoRg.isChecked())
+            if(amb.ingressarCb.isChecked())
+                amb.ingressarCb.toggle();
+            if(amb.femininoRg.isChecked())
                 amb.masculinoRg.toggle();
-            else if(amb.femininoRg.isChecked()){
-                amb.femininoRg.toggle();
-            }
         });
 
         amb.salvarBt.setOnClickListener(view -> {
